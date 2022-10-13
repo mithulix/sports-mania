@@ -8,7 +8,7 @@ const FILE_PATH = "./data.json";
 
 const makeCommit = n => {
   if (n === 0) return simpleGit().push();
-  const x = random.int(0, 1);
+  const x = random.int(0, 2);
   const y = random.int(0, 1);
   const DATE = moment("2022-10-10")
     .add(x, "days")
