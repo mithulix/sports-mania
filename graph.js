@@ -14,7 +14,7 @@ const makeCommit = n => {
     .add(x, "days")
     .add(y, "hours")
     .subtract(5, "days")
-    .add(2, "days")
+    .add(1, "days")
     .format();
   const data = {
     date: DATE,
