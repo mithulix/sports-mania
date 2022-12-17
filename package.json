@@ -1,11 +1,8 @@
 {
   "name": "sports-mania",
   "dependencies": {
-    "jsonfile": "^4.0.0",
     "jsonfile-updater": "^3.1.0",
-    "moment": "^2.24.0",
-    "random": "^3.0.6",
-    "simple-git": "^1.132.0"
+    "react": "^18.2.0"
   },
   "version": "1.0.0",
   "main": "graph.js",
