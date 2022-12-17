@@ -1,0 +1,20 @@
+#HeaderBadge {z-index:1; width: 6rem; position: absolute; margin:3% 0 0 45%; };
+
+#briefDetails { background-color: #1827b3; border-radius: .6rem;  margin: 1rem 0 -1rem 0;}
+
+#briefDetails_Col {padding: .8rem ; margin-left: .5rem; line-height: .9rem;}
+
+#briefDetails_img {width: 10rem; float: right; margin-top: .5rem; 
+    background-image: linear-gradient(#d4dcff, #ada0f3); border-radius: .6rem; padding: .4rem;}
+
+#description { margin-top: 1.5rem; color: #fff;}
+
+#Icons {text-align: center;margin-bottom: 0%; padding: .6rem;}
+
+#Icons_social {margin-left: 1rem; font-size: 2rem;}
+
+
+/* responsive */
+@media only screen and (max-width: 425px){
+    #briefDetails_Col { padding: .3rem 0 6rem 0; }
+}

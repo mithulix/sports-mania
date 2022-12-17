@@ -1,0 +1,10 @@
+#AllLeagueCss { display: grid; grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem; text-align: center; margin : 1rem;
+}
+
+@media only screen and (max-width: 425px) {
+    #AllLeagueCss {
+        display: grid; margin : 1rem; grid-template-columns: 1fr;
+        width: fit-content;
+    }
+}

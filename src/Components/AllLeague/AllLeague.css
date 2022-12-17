@@ -1,0 +1,15 @@
+#CardsCol { padding: 0%;}
+
+<<<<<<< HEAD
+#cards  { width: 15rem; height: 16rem; line-height: .4rem; border: none; font-size: .9rem;}
+
+#CardImg { width: 5rem;  margin: 1rem auto;  line-height: 1rem;}
+
+#cText { line-height: 1rem; font-size: 1rem;}
+=======
+#cards  { width: 15rem; height: 15rem; line-height: .4rem; border: none;}
+
+#CardImg { width: 5rem;  margin: 1rem auto;}
+>>>>>>> 25176c5d9f4292526ff930c75f9b61725d129707
+
+#icon { margin-left: .5rem;}
